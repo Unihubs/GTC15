@@ -1,2 +1,2 @@
 # GTC15
-All about GTC 15'
+news 分支用于放置新闻稿。
